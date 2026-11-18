@@ -1,7 +1,8 @@
+# Low-Dropout Regulator Optimisation Utilising Machine Learning
+
 ## Summary
 
-Low-Dropout Regulator Optimisation Utilising Machine Learning
-(BEng Computer Systems Engineering dissertation)
+BEng Computer Systems Engineering dissertation
 
 Data was generated from circuit simulations using LTSpice and output in an Excel file.
 
